@@ -1,7 +1,7 @@
 
 # Welcome
 
-🖐Hi, I'm Harsh Pawar aka HyperDGX and I'm a learner who believes in practical learning not in theory too much.
+👋Hi, I'm Harsh Pawar aka HyperDGX and I'm a learner who believes in practical learning not in theory too much.
 Btw I'm studying at NIIST Bhopal and my course is B.Tech in Computer Science Engineering.
 My aim is to learn everything which is related to computer science and programming as well as i want to create Indian Gaming Community grow for that I'm gonna to learn how to be a game developer.
 
