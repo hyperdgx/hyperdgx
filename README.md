@@ -9,6 +9,8 @@ Actually I want to be a Full Stack Developer or Just a Developer, Developer is a
 
 # Things I Know
 
+<img alt="image" src="https://github.com/hyperdgx/hyperdgx/blob/main/Picsart_22-10-15_10-25-35-450.jpg ">
+
 •HTML5
 
 •CSS3
