@@ -65,4 +65,4 @@ Actually I want to be a Full Stack Developer or Just a Developer, Developer is a
 
 •Audio Production (Background Music, Sound Designing, Music Production and More...)
 
-![Gif](https://github.com/hyperdgx/Information/blob/main/original.gif )
+![Gif](https://github.com/hyperdgx/hyperdgx/blob/main/original.gif )
