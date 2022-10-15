@@ -3,6 +3,9 @@
 
 👋Hi, I'm Harsh Pawar aka HyperDGX and I'm a learner who believes in practical learning not in theory too much.
 Btw I'm studying at NIIST Bhopal and my course is B.Tech in Computer Science Engineering.
+
+<img alt="gif" src="https://github.com/hyperdgx/hyperdgx/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif ">
+
 My aim is to learn everything which is related to computer science and programming as well as i want to create Indian Gaming Community grow for that I'm gonna to learn how to be a game developer.
 
 Actually I want to be a Full Stack Developer or Just a Developer, Developer is also a good option i think so...
