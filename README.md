@@ -49,7 +49,7 @@ Actually I want to be a Full Stack Developer or Just a Developer, Developer is a
 
 # Below is the example of Web Design + Graphics Design
 
-![image](https://github.com/hyperdgx/Information/blob/main/Picsart_22-10-14_20-13-26-488.jpg )
+![image](https://github.com/hyperdgx/hyperdgx/blob/main/Picsart_22-10-14_20-13-26-488.jpg )
 
 # My Interest 
 
