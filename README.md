@@ -8,5 +8,5 @@ I'm Harsh Pawar, currently a student pursuing B.Tech in Computer Science and Eng
 Currently, I'm working on building up my skillset. Instead of focusing on acquiring new skills, I'm concentrating on improving my HTML and CSS skills. Therefore, I have created my personal portfolio from scratch, hosted it, and am also pushing my limits by challenging myself with various technologies such as Java, Python, core concepts, and tools like Figma, simultaneously putting stress on my mind.
 
 ## Have a look at my portfolio 👀 <br>
-Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Harsh Pawar</a>
+Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Harsh Pawar</a> <br>
 Hey, If you are visiting my portfolio website. Please, give feedbacks. This will help me to improve user experience.
