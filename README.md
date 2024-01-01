@@ -1,4 +1,4 @@
-# Hi, I'm Hasrh Pawar 👋🏼
+# Hi, I'm Harsh Pawar 👋🏼
 
 
 <img src="https://github.com/hyperdgx/hyperdgx/blob/main/Banner.png">
