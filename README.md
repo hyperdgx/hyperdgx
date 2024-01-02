@@ -35,5 +35,8 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 
 ## Take a Look at Github Stats 🍀
 
+<img src="https://github-readme-stats.vercel.app/api?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&count_private=false">
+
+
 
 
