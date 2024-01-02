@@ -15,11 +15,11 @@ Hey, If you are visiting my portfolio website. Please, give some feedbacks. This
 I'm dividing my skills into two different categories. Firstly, as **Programming Skills**. Secondy, as **Software Skills**.
 
 <div align="left">
-<h5 align="left">Programming Skills</h5>
+<h5 align="left">Programming Skills:</h5>
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/100/html-5.png" alt="html-5"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="css3"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/javascript.png" alt="javascript"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/python.png" alt="python"/>
 
-<h5 align="left">Software Skills</h5>
+<h5 align="left">Software Skills:</h5>
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/100/figma.png" alt="figma"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/canva.png" alt="canva"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/blender-3d.png" alt="blender-3d"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
