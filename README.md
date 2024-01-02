@@ -46,7 +46,7 @@ If you are really interested to help me. Then, you can buy me a coffee. <br><br>
 
 Social Platforms:
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/100/medium-logo.png" alt="medium-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/100/youtube-play.png" alt="youtube-play"/><img width="48" height="48" src="https://img.icons8.com/fluency/100/medium-logo.png" alt="medium-logo"/>
 
 Feeling good then, also have a look below.
 
