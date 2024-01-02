@@ -21,9 +21,9 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 <p>Blender</p>
 <p>VS Code</p>
 
-| <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>    | Figma    | Figma    | Figma    |
-| -------- | -------- | -------- | -------- |
-| Figma    | Figma    | Figma    | Figma    |
+| <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>    | <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>    | <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/>    | <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>    |
+| "--------: | "--------" | "--------" | "--------" |
+| Figma    | Canva    | Blender    | VS Code    |
 
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>                             |
