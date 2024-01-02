@@ -27,7 +27,7 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
 
 # Fund my Creative Work 👌
-If you are really interested to help me. Then, you can buy me a coffee. <br>
+If you are really interested to help me. Then, you can buy me a coffee. <br><br>
 <a href="https://www.buymeacoffee.com/harshpawar"><img width="128" height="auto" src="./bmc-button.svg"></a>
 
 # Find Me Around The World of Web 🌐
