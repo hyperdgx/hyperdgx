@@ -65,7 +65,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
 <br>
   <br>
 
-<p align="center">Made by [@hyperdgx](https://github.com/hyperdgx), Made with 💖.</p>
+<p align="center">Made by [@hyperdgx](https://github.com/hyperdgx) , Made with 💖.</p>
 
 
 
