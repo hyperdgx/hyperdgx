@@ -26,4 +26,4 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 | Figma  | $250    |
 | Canva | $80     |
 | Blender    | $420    |
-| Vs Code | $420      |
+| VS Code | $420      |
