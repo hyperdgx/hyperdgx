@@ -61,7 +61,8 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <p align="center">🌟 Github Trophies 🌟</p>
   <img src="https://github-trophies.vercel.app/?username=hyperdgx">
 </div>
-
+<br>
+<br>
 <p align="center">Thanks for Scrolling this `readme.md` file, Have a 👋🏼 Nice Day</p>
 
 
