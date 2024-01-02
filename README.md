@@ -7,7 +7,7 @@ I'm Harsh Pawar, currently a student pursuing B.Tech in Computer Science and Eng
 
 Currently, I'm working on building up my skillset. Instead of focusing on acquiring new skills, I'm concentrating on improving my HTML and CSS skills. Therefore, I have created my personal portfolio from scratch, hosted it, and am also pushing my limits by challenging myself with various technologies such as Java, Python, core concepts, and tools like Figma, simultaneously putting stress on my mind.
 
-## Have a look at my portfolio 👀 <br>
+## Have a Look at My Portfolio 👀 <br>
 Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
 >[!NOTE]
 >Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <br>
@@ -27,9 +27,9 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 
 Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
 
-## Find me around the world of web 🌐
-Get connected with me on [LinkedIn](https://www.linkedin.com/in/1harshpawar)
-Let's contribute on [Github](https://github.com/hyperdgx)
-Follow me on [Instagram](https://www.instagram.com/hyperdgx)
-Direct Message me on [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1)
+## Find Me Around The World of Web 🌐
+Get connected with me on [LinkedIn](https://www.linkedin.com/in/1harshpawar) <br>
+Let's contribute on [Github](https://github.com/hyperdgx) <br>
+Follow me on [Instagram](https://www.instagram.com/hyperdgx) <br>
+Direct Message me on [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1) <br>
 
