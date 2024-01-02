@@ -10,6 +10,8 @@ Currently, I'm working on building up my skillset. Instead of focusing on acquir
 ## Have a look at my portfolio 👀 <br>
 Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
 Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <br>
-## Programming Skills <br>
+## Programming Skills ✨ <br>
+
+1. Figma <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
 
 
