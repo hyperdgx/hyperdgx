@@ -21,3 +21,14 @@ Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <b
 
 </span>
 
+# Title
+
+This is some text.
+
+<div class="toggle-hide">
+## Hidden section
+
+A hidden paragraph.
+</div>
+
+This text is visible.
