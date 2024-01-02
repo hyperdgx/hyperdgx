@@ -33,7 +33,9 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 - **Follow** me on 🙏🏼 [Instagram](https://www.instagram.com/hyperdgx). <br>
 - Direct **Message** me on ☕ [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1). <br>
 
-## Take a Look at Github Stats 🍀
+Feeling good then, also have a look below.
+
+## Take a Look at My Github Stats 🍀
 
 
 <div align="center">
