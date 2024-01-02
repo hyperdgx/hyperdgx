@@ -37,10 +37,9 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperdgx&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&count_private=false"> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperdgx&theme=dark&hide_border=true"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
 </div>
 
 
