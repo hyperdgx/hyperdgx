@@ -28,7 +28,7 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 
 # Fund my Creative Work 👌
 If you are really interested to help me. Then, you can buy me a coffee. <br><br>
-<a href="https://www.buymeacoffee.com/harshpawar"><img width="128" height="auto" src="./bmc-button.svg"></a>
+<a href="https://www.buymeacoffee.com/harshpawar"><img width="156" height="auto" src="./bmc-button.svg"></a>
 
 # Find Me Around The World of Web 🌐
 - Get **connected** with me on 💻 [LinkedIn](https://www.linkedin.com/in/1harshpawar). <br>
