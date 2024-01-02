@@ -35,5 +35,6 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 
 ## Take a Look at Github Stats 🍀
 
-![hyperdgx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyperdgx&theme=dark&hide_border=true) ![hyperdgx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![hyperdgx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyperdgx&theme=dark&hide_border=true) ![hyperdgx's Stats](https://github-readme-stats.vercel.app/api?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![hyperdgx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
