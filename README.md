@@ -20,3 +20,9 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><p>Canva</p>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/><p>Blender</p>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><p>VS Code</p>
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
