@@ -35,10 +35,10 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 
 Feeling good then, also have a look below.
 
-### Extras
+# Extras
 
 
-I'm different from others; thus, I don't showcase the usual stats and trophies at the top of this `readme.md` file on GitHub. However, in keeping with my individuality, I've included them below for others to gain visual insight into my GitHub trophies and stats. I truly appreciate the work done to create this useful stat manager on GitHub and the `developers & contributors` made here.
+I'm different from others; thus, I don't showcase the usual stats and trophies at the top of this `readme.md` file on GitHub. However, in keeping with my individuality, I've included them below for others to gain visual insight into my GitHub trophies and stats. I truly appreciate the work done to create this useful stat manager on GitHub and the developers & contributors made here.
 
 ## Take a Look at My Github Stats 🍀
 
