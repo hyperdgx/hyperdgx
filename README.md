@@ -12,9 +12,10 @@ Hey, If you are visiting my portfolio website. Please, give some feedbacks. This
 >Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <br>
 ## Look at my Skills ✨ <br>
 I'm dividing my skills into two different categories. Firstly, as **Programming Skills**. Secondy, as **Software Skills**.
+### Programming Skills
 
-  
+### Software Skills
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
-<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
-<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
-<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><p>Figma</p></div>
