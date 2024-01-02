@@ -62,6 +62,9 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <img src="https://github-trophies.vercel.app/?username=hyperdgx">
 </div>
 
+## <p align="center">Thank You</p>
+## <p align="center">🙏🏼 Namaste 🙏🏼</p>
+
 
 
 
