@@ -65,7 +65,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
 <br>
 <p align="center">Thanks for Scrolling this `readme.md` file, Have a Nice Day.</p>
 
-## <p align="center">Made by @hyperdgx, Made with 💖</p>
+## <p align="center">Made by [@hyperdgx](https://github.com/hyperdgx), Made with 💖</p>
 
 
 
