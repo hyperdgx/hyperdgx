@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hyperdgx/hyperdgx/blob/main/Banner.png">
 <br>
-<img align="left" src="https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e">
+<img src="https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e">
 <br>
 I'm Harsh Pawar, currently a student pursuing B.Tech in Computer Science and Engineering at NRI Institute of Information Science and Technology. The word I like most is "curiosity".
 <br>
