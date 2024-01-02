@@ -25,3 +25,6 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 | :--------: | :--------: | :--------: | :--------: |
 | FIGMA    | CANVA    | BLENDER    | VS CODE    |
 
+## Find me around the world of web 🌐
+Get connected with me on [LinkedIn](https://www.linkedin.com/in/1harshpawar)
+
