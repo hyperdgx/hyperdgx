@@ -48,7 +48,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
 </div>
 
-#### <p align="center">Some of Github Trophies 🏆</p>
+### <p align="center">Some of Github Trophies 🏆</p>
 
 
 <div align="center">
