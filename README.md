@@ -13,7 +13,7 @@ Hey, If you are visiting my portfolio website. Please, give some feedbacks. This
 >[!NOTE]
 >Please visit my portfoilio website: <a href="https://harshpawar.000webhostapp.com/">harshpawar.000webhostapp.com</a> <br>
 
-or
+Copy and Paste below link in your Browser to visit my Website.
 
     https://harshpawar.000webhostapp.com/
 
