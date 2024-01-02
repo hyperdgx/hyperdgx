@@ -7,7 +7,7 @@ I'm Harsh Pawar, currently a student pursuing B.Tech in Computer Science and Eng
 
 Currently, I'm working on building up my skillset. Instead of focusing on acquiring **new skills**, I'm concentrating on improving my HTML and CSS skills. Therefore, I have created my personal portfolio from scratch, hosted it, and am also pushing my limits by challenging myself with various technologies such as **Java**, **Python**, **Core Concepts**, and tools like **Figma**, simultaneously putting stress on my mind.
 
-## Have a Look at My Portfolio 👀 <br>
+# Have a Look at My Portfolio 👀 <br>
 Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
 >[!NOTE]
 >Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <br>
@@ -26,7 +26,7 @@ Software Skills<h3 align="left">Software Skills</h3>
 
 Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
 
-## Find Me Around The World of Web 🌐
+# Find Me Around The World of Web 🌐
 - Get **connected** with me on 💻 [LinkedIn](https://www.linkedin.com/in/1harshpawar). <br>
 - Let's **contribute** on 😎 [Github](https://github.com/hyperdgx). <br>
 - **Follow** me on 🙏🏼 [Instagram](https://www.instagram.com/hyperdgx). <br>
@@ -39,7 +39,7 @@ Feeling good then, also have a look below.
 
 I'm different from others; thus, I don't showcase the usual stats and trophies at the top of this `readme.md` file on GitHub. However, in keeping with my individuality, I've included them below for others to gain visual insight into my GitHub trophies and stats. I truly appreciate the work done to create this useful stat manager on GitHub and the developers & contributors made here.
 
-## <p align="center">Take a Look at My Github Stats 🍀</p>
+### <p align="center">Take a Look at My Github Stats 🍀</p>
 
 
 <div align="center">
@@ -48,7 +48,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
 </div>
 
-## <p align="center">Some of Github Trophies 🏆</p>
+#### <p align="center">Some of Github Trophies 🏆</p>
 
 
 <div align="center">
