@@ -1,5 +1,5 @@
 # Hi, I'm Harsh Pawar 👋🏼
-
+![](https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e)
 <img src="https://github.com/hyperdgx/hyperdgx/blob/main/Banner.png">
 
 I'm Harsh Pawar, currently a student pursuing B.Tech in Computer Science and Engineering at NRI Institute of Information Science and Technology. The word I like most is "curiosity".
@@ -8,7 +8,7 @@ Currently, I'm working on building up my skillset. Instead of focusing on acquir
 
 # Have a Look at My Portfolio 👀 <br>
 Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
-![](https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e)
+
 >[!NOTE]
 >Please visit my portfoilio website: <a href="https://harshpawar.000webhostapp.com/">harshpawar.000webhostapp.com</a> <br>
 
