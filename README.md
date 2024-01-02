@@ -32,5 +32,3 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 - Let's **contribute** on 😎 [Github](https://github.com/hyperdgx). <br>
 - **Follow** me on 🙏🏼 [Instagram](https://www.instagram.com/hyperdgx). <br>
 - Direct **Message** me on ☕ [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1). <br>
-
-<img href="https://github.com/hyperdgx/hyperdgx/blob/main/image-side.gif" width="150px" height="150px" align="left">
