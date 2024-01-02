@@ -28,8 +28,7 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
 
 ## Find Me Around The World of Web 🌐
--💻 Get connected with me on [LinkedIn](https://www.linkedin.com/in/1harshpawar). <br>
--😎 Let's contribute on [Github](https://github.com/hyperdgx). <br>
--🙏🏼 Follow me on [Instagram](https://www.instagram.com/hyperdgx). <br>
--☕ Direct Message me on [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1). <br>
-
+-Get connected with me on 💻 [LinkedIn](https://www.linkedin.com/in/1harshpawar). <br>
+-Let's contribute on 😎 [Github](https://github.com/hyperdgx). <br>
+-Follow me on 🙏🏼 [Instagram](https://www.instagram.com/hyperdgx). <br>
+-Direct Message me on ☕ [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1). <br>
