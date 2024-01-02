@@ -23,6 +23,7 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 
 | Month    | Savings |
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| Figma  | $250    |
+| Canva | $80     |
+| Blender    | $420    |
+| Vs Code | $420      |
