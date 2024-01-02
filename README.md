@@ -46,7 +46,7 @@ If you are really interested to help me. Then, you can buy me a coffee. <br><br>
 
 Social Platforms:
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/100/behance.png" alt="behance"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/youtube-play.png" alt="youtube-play"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/instagram-new.png" alt="instagram-new"/>
+<img width="24" height="24" src="https://img.icons8.com/fluency/100/behance.png" alt="behance"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/youtube-play.png" alt="youtube-play"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/instagram-new.png" alt="instagram-new"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/linkedin.png" alt="linkedin"/>
 
 Feeling good then, also have a look below.
 
