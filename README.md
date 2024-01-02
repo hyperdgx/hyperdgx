@@ -49,6 +49,8 @@ Social Platforms:
 
 Feeling good then, also have a look below.
 
+<img src="https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e">
+
 # Extras
 
 
@@ -78,7 +80,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <br>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=hyperdgx&color=128c7e">
+
 <p align="center"> Made by <a href="https://github.com/hyperdgx">@hyperdgx</a>, Made with 💖. </p>
 
 
