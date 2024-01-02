@@ -20,15 +20,3 @@ Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <b
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
 
 </span>
-
-# Title
-
-This is some text.
-
-<div class="toggle-hide">
-## Hidden section
-
-A hidden paragraph.
-</div>
-
-This text is visible.
