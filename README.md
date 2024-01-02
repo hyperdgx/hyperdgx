@@ -44,10 +44,11 @@ Feeling good then, also have a look below.
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
 </div>
 
-## Some Github Trophies 🏆
+## Some of Github Trophies 🏆
 
 <div>
   <img src="https://github-trophies.vercel.app/?username=hyperdgx">
+  <img src="https://github-profile-trophy.vercel.app/?username=hyperdgx">
 </div>
 
 
