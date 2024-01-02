@@ -49,7 +49,6 @@ Feeling good then, also have a look below.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hyperdgx">
   <img src="https://github-trophies.vercel.app/?username=hyperdgx">
-  <img src="https://github-profile-trophy.vercel.app/?username=hyperdgx">
 </div>
 
 
