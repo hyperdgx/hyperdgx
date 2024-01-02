@@ -40,7 +40,7 @@ Feeling good then, also have a look below.
 
 I'm different from others; thus, I don't showcase the usual stats and trophies at the top of this `readme.md` file on GitHub. However, in keeping with my individuality, I've included them below for others to gain visual insight into my GitHub trophies and stats. I truly appreciate the work done to create this useful stat manager on GitHub and the developers & contributors made here.
 
-## Take a Look at My Github Stats 🍀
+## <p align="center">Take a Look at My Github Stats 🍀 🏆</p>
 
 
 <div align="center">
@@ -49,7 +49,8 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperdgx&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
 </div>
 
-## Some of Github Trophies 🏆
+## <p align="center">Some of Github Trophies 🏆</p>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hyperdgx">
