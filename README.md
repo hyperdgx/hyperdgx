@@ -22,4 +22,4 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><p>VS Code</p></div>
 
 > :Buttons
-> :Button label=GitHub, url=https://github.com
+> > :Button label=GitHub, url=https://github.com
