@@ -16,13 +16,7 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 ### Programming Skills
 
 ### Software Skills
-<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
-<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><p>Canva</p></div>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><p>Canva</p>
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/><p>Blender</p></div>
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><p>VS Code</p></div>
-
-<div class="float-right">
-
-![alt text](.[/image.jpg](https://img.icons8.com/fluency/48/figma.png)https://img.icons8.com/fluency/48/figma.png)
-
-</div>
