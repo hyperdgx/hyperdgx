@@ -25,6 +25,11 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 | :--------: | :--------: | :--------: | :--------: |
 | FIGMA    | CANVA    | BLENDER    | VS CODE    |
 
+Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
+
 ## Find me around the world of web 🌐
 Get connected with me on [LinkedIn](https://www.linkedin.com/in/1harshpawar)
+Let's contribute on [Github](https://github.com/hyperdgx)
+Follow me on [Instagram](https://www.instagram.com/hyperdgx)
+Direct Message me on [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1)
 
