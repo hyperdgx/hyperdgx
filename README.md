@@ -27,3 +27,9 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 | Canva | <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>     |
 | Blender    | <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/>    |
 | VS Code | <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>      |
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
