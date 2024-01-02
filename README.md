@@ -33,4 +33,7 @@ Thank you for reviewing my skills and profile. If you genuinely wish to get in t
 - **Follow** me on 🙏🏼 [Instagram](https://www.instagram.com/hyperdgx). <br>
 - Direct **Message** me on ☕ [Whatsapp](https://wa.me/message/4JT5RU67XYO4M1). <br>
 
+## Take a Look at Github Stats 🌐
+
+![hyperdgx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyperdgx&theme=dark&hide_border=true)
 
