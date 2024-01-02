@@ -12,5 +12,12 @@ Hey, If you are visiting my portfolio website. Please, give some feedbacks. This
 Portfolio Link: <a href="https://harshpawar.000webhostapp.com/">Visit Now</a> <br>
 ## Programming Skills ✨ <br>
 
+<div>
+  
 <div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
+<div><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><p>Figma</p></div>
+
+</div>
 
