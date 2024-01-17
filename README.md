@@ -81,7 +81,7 @@ I'm different from others; thus, I don't showcase the usual stats and trophies a
 </div>
 <br>
 
-<p align="center"> Made by <a href="https://github.com/hyperdgx">@hyperdgx</a>, Made with 💖. </p>
+<p align="center"> Made by <a href="https://github.com/hyperdgx">@hyperdgx</a>, Made with Heat 🔥. </p>
 
 
 
