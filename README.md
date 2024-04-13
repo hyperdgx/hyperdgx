@@ -10,7 +10,7 @@ Currently, I'm working on building up my skillset. Instead of focusing on acquir
 Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
 
 >[!NOTE]
->Please visit my portfoilio website: <a href="https://harshpawar.000webhostapp.com/">harshpawar.000webhostapp.com</a> <br>
+>Please visit my portfoilio website: <a href="http://harshpawar.tech/">harshpawar.000webhostapp.com</a> <br>
 
 Copy and Paste below link in your Browser to visit my Website.
 
