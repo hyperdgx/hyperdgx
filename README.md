@@ -2,7 +2,7 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D6201B&height=8&section=header" width="100%" alt="" />
 <img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/New_Banner.png" width="100%" alt="Harsh Pawar — Digital Product Designer & Frontend Developer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6201B,50:B91C1C,100:7F1D1D&height=70&section=footer" width="100%" alt="" />
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=2000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Digital+Product+Designer;UI+%2F+UX+Designer;Frontend+Developer;Full-Stack+Builder;HyperDGX)](https://github.com/hyperdgx)
