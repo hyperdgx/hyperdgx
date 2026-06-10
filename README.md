@@ -343,13 +343,12 @@ Worth knowing before we collaborate:
 
 <div align="center">
 
-| 💼 **LinkedIn** | [linkedin.com/in/1harshpawar](https://linkedin.com/in/1harshpawar) |
-| 🐙 **GitHub** | [github.com/hyperdgx](https://github.com/hyperdgx) |
-| 📧 **Email** | [pawarharsh191@gmail.com](mailto:pawarharsh191@gmail.com) |
-| 📷 **Instagram** | [instagram.com/hyperdgx](https://instagram.com/hyperdgx) |
-| 💬 **WhatsApp** | [Direct Message](https://wa.me/message/4JT5RU67XYO4M1) |
+|                    LinkedIn                    |                  GitHub                  |                   Email                   |                  Instagram                  |                     WhatsApp                    |
+| :--------------------------------------------: | :--------------------------------------: | :---------------------------------------: | :-----------------------------------------: | :---------------------------------------------: |
+| [Profile](https://linkedin.com/in/1harshpawar) | [@hyperdgx](https://github.com/hyperdgx) | [Contact](mailto:pawarharsh191@gmail.com) | [@hyperdgx](https://instagram.com/hyperdgx) | [Message](https://wa.me/message/4JT5RU67XYO4M1) |
 
 </div>
+
 
 ---
 
