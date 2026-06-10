@@ -198,28 +198,9 @@ I'm not just a frontend developer who touched a backend once. I've built product
 
 </div>
 
-> ⚡ Drop `.github/workflows/snake.yml` into this repo and trigger the action once to activate.
-
 ---
 
 ## `09` // Selected Work
-
-<details>
-<summary><strong>Harsh Pawar Portfolio</strong> &nbsp;·&nbsp; Personal Digital Experience &nbsp;·&nbsp; <a href="https://harsh-pawar-portfolio-production.up.railway.app">→ Live</a></summary>
-
-<br>
-
-The portfolio wasn't just a project showcase. It was an attempt to prove that a personal portfolio can be a piece of interactive design worth experiencing on its own terms.
-
-Built with a custom proprietary design system, 15+ distinct sections, GSAP-powered scroll animations and timeline sequences, Lenis for buttery smooth scroll behavior, SplitType for character-level kinetic typography, and a complete visual language developed from scratch targeting Awwwards-level quality. Deployed on Railway.
-
-Every section was treated as its own micro-interaction problem. The goal: visitors leave having *felt* something, not just having read a résumé.
-
-`Next.js` · `GSAP` · `Lenis` · `SplitType` · `Tailwind CSS` · `Railway` · `Custom Design System`
-
-</details>
-
----
 
 <details>
 <summary><strong>Mission RID</strong> &nbsp;·&nbsp; Student × College Platform, India</summary>
@@ -312,17 +293,7 @@ As co-founder and COO, led organizational structure and legitimacy-building, pro
 
 ---
 
-## `11` // GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyperdgx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-</div>
-
----
-
-## `12` // Currently Exploring
+## `11` // Currently Exploring
 
 Outside of client and product work, I'm actively going deeper into:
 
@@ -337,7 +308,7 @@ Outside of client and product work, I'm actively going deeper into:
 
 ---
 
-## `13` // How I Actually Work
+## `12` // How I Actually Work
 
 Worth knowing before we collaborate:
 
@@ -357,7 +328,7 @@ Worth knowing before we collaborate:
 
 ---
 
-## `14` // Open To
+## `13` // Open To
 
 - **Freelance** — Product Design & Frontend Development Projects
 - **Remote Roles** — Product Designer · UI/UX Designer · Frontend Engineer
@@ -368,13 +339,12 @@ Worth knowing before we collaborate:
 
 ---
 
-## `15` // Let's Connect
+## `1` // Let's Connect
 
 <div align="center">
 
 | | |
 |:---|:---|
-| 🌐 **Portfolio** | [harsh-pawar-portfolio-production.up.railway.app](https://harsh-pawar-portfolio-production.up.railway.app) |
 | 💼 **LinkedIn** | [linkedin.com/in/1harshpawar](https://linkedin.com/in/1harshpawar) |
 | 🐙 **GitHub** | [github.com/hyperdgx](https://github.com/hyperdgx) |
 | 📧 **Email** | [pawarharsh191@gmail.com](mailto:pawarharsh191@gmail.com) |
@@ -395,7 +365,7 @@ SEO: Harsh Pawar, hyperdgx, HyperDGX, Harsh Pawar Developer, Harsh Pawar Designe
 
 > *Building products through curiosity, craft, and relentless attention to what actually matters.*
 >
-> *— HyperDGX, Bhopal*
+> *— Harsh Pawar AKA HyperDGX*
 
 <br>
 
