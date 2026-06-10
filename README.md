@@ -1,5 +1,6 @@
 <div align="center">
-
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D6201B&height=8&section=header" width="100%" alt="" />
 <img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/New_Banner.png" width="100%" alt="Harsh Pawar — Digital Product Designer & Frontend Developer" />
 
 <br>
@@ -369,6 +370,8 @@ SEO: Harsh Pawar, hyperdgx, HyperDGX, Harsh Pawar Developer, Harsh Pawar Designe
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=100&section=footer" width="100%" alt="" />
+<!-- Footer -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6201B,100:8B1111&height=120&section=footer" width="100%" alt="" />
 
 </div>
