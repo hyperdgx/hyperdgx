@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/Banner.png" width="100%" alt="Harsh Pawar — Digital Product Designer & Frontend Developer" />
+<img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/New_Banner.png" width="100%" alt="Harsh Pawar — Digital Product Designer & Frontend Developer" />
 
 <br>
 
