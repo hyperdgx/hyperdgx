@@ -343,7 +343,6 @@ Worth knowing before we collaborate:
 
 <div align="center">
 
-|:---|:---|
 | 💼 **LinkedIn** | [linkedin.com/in/1harshpawar](https://linkedin.com/in/1harshpawar) |
 | 🐙 **GitHub** | [github.com/hyperdgx](https://github.com/hyperdgx) |
 | 📧 **Email** | [pawarharsh191@gmail.com](mailto:pawarharsh191@gmail.com) |
