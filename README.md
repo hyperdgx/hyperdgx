@@ -371,6 +371,6 @@ SEO: Harsh Pawar, hyperdgx, HyperDGX, Harsh Pawar Developer, Harsh Pawar Designe
 
 <!-- Footer -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D6201B&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D6201B&height=120&section=footer" width="100%" />
 
 </div>
