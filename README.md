@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header -->
-<img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/New_Banner.png" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6201B,100:8B1111&height=120&section=header" width="100%" alt="" />
 <img src="https://raw.githubusercontent.com/hyperdgx/hyperdgx/main/New_Banner.png" width="100%" alt="Harsh Pawar — Digital Product Designer & Frontend Developer" />
 <br>
 
